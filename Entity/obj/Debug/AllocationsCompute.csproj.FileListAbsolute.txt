@@ -1,0 +1,12 @@
+D:\CODE\CSharp\AllocationsCMD\AllocationsCompute\bin\Debug\AllocationsCompute.dll
+D:\CODE\CSharp\AllocationsCMD\AllocationsCompute\bin\Debug\AllocationsCompute.pdb
+D:\CODE\CSharp\AllocationsCMD\AllocationsCompute\obj\Debug\AllocationsCompute.csproj.AssemblyReference.cache
+D:\CODE\CSharp\AllocationsCMD\AllocationsCompute\obj\Debug\AllocationsCompute.csproj.CoreCompileInputs.cache
+D:\CODE\CSharp\AllocationsCMD\AllocationsCompute\obj\Debug\AllocationsCompute.dll
+D:\CODE\CSharp\AllocationsCMD\AllocationsCompute\obj\Debug\AllocationsCompute.pdb
+E:\GKK_SK\PrismApiTest\AllocationsCompute\bin\Debug\AllocationsCompute.dll
+E:\GKK_SK\PrismApiTest\AllocationsCompute\bin\Debug\AllocationsCompute.pdb
+E:\GKK_SK\PrismApiTest\AllocationsCompute\obj\Debug\AllocationsCompute.csproj.AssemblyReference.cache
+E:\GKK_SK\PrismApiTest\AllocationsCompute\obj\Debug\AllocationsCompute.csproj.CoreCompileInputs.cache
+E:\GKK_SK\PrismApiTest\AllocationsCompute\obj\Debug\AllocationsCompute.dll
+E:\GKK_SK\PrismApiTest\AllocationsCompute\obj\Debug\AllocationsCompute.pdb

@@ -1,0 +1,6 @@
+E:\GKK_SK\PrismApiTest\AllocationsCompute\bin\Debug\CffEntity.dll
+E:\GKK_SK\PrismApiTest\AllocationsCompute\bin\Debug\CffEntity.pdb
+E:\GKK_SK\PrismApiTest\AllocationsCompute\obj\Debug\CffEntity.csproj.AssemblyReference.cache
+E:\GKK_SK\PrismApiTest\AllocationsCompute\obj\Debug\CffEntity.csproj.CoreCompileInputs.cache
+E:\GKK_SK\PrismApiTest\AllocationsCompute\obj\Debug\CffEntity.dll
+E:\GKK_SK\PrismApiTest\AllocationsCompute\obj\Debug\CffEntity.pdb

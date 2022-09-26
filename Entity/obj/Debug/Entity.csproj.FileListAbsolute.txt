@@ -1,0 +1,35 @@
+E:\GKK_SK\PrismApiTest\AllocationsCompute\bin\Debug\Entity.dll
+E:\GKK_SK\PrismApiTest\AllocationsCompute\bin\Debug\Entity.pdb
+E:\GKK_SK\PrismApiTest\AllocationsCompute\obj\Debug\Entity.csproj.AssemblyReference.cache
+E:\GKK_SK\PrismApiTest\AllocationsCompute\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+E:\GKK_SK\PrismApiTest\AllocationsCompute\obj\Debug\Entity.dll
+E:\GKK_SK\PrismApiTest\AllocationsCompute\obj\Debug\Entity.pdb
+E:\GKK_SK\PrismApiTest\Entity\bin\Debug\Entity.dll
+E:\GKK_SK\PrismApiTest\Entity\bin\Debug\Entity.pdb
+E:\GKK_SK\PrismApiTest\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+E:\GKK_SK\PrismApiTest\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+E:\GKK_SK\PrismApiTest\Entity\obj\Debug\Entity.dll
+E:\GKK_SK\PrismApiTest\Entity\obj\Debug\Entity.pdb
+E:\GKK_SK\PrismApiTest - 副本\Entity\bin\Debug\Entity.dll
+E:\GKK_SK\PrismApiTest - 副本\Entity\bin\Debug\Entity.pdb
+E:\GKK_SK\PrismApiTest - 副本\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+E:\GKK_SK\PrismApiTest - 副本\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+E:\GKK_SK\PrismApiTest - 副本\Entity\obj\Debug\Entity.dll
+E:\GKK_SK\PrismApiTest - 副本\Entity\obj\Debug\Entity.pdb
+C:\Users\Administrator.DESKTOP-6T7UBJ8\Desktop\323最终\ApplicationTask1\Entity\bin\Debug\Entity.dll
+C:\Users\Administrator.DESKTOP-6T7UBJ8\Desktop\323最终\ApplicationTask1\Entity\bin\Debug\Entity.pdb
+C:\Users\Administrator.DESKTOP-6T7UBJ8\Desktop\323最终\ApplicationTask1\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.DESKTOP-6T7UBJ8\Desktop\323最终\ApplicationTask1\Entity\obj\Debug\Entity.dll
+C:\Users\Administrator.DESKTOP-6T7UBJ8\Desktop\323最终\ApplicationTask1\Entity\obj\Debug\Entity.pdb
+E:\GKK_SK\ApplicationTask2\ApplicationTask1\Entity\bin\Debug\Entity.dll
+E:\GKK_SK\ApplicationTask2\ApplicationTask1\Entity\bin\Debug\Entity.pdb
+E:\GKK_SK\ApplicationTask2\ApplicationTask1\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+E:\GKK_SK\ApplicationTask2\ApplicationTask1\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+E:\GKK_SK\ApplicationTask2\ApplicationTask1\Entity\obj\Debug\Entity.dll
+E:\GKK_SK\ApplicationTask2\ApplicationTask1\Entity\obj\Debug\Entity.pdb
+E:\GKK_SK\ApplicationTask1\Entity\bin\Debug\Entity.dll
+E:\GKK_SK\ApplicationTask1\Entity\bin\Debug\Entity.pdb
+E:\GKK_SK\ApplicationTask1\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+E:\GKK_SK\ApplicationTask1\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+E:\GKK_SK\ApplicationTask1\Entity\obj\Debug\Entity.dll
+E:\GKK_SK\ApplicationTask1\Entity\obj\Debug\Entity.pdb

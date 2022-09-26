@@ -1,0 +1,61 @@
+D:\CODE\CSharp\WcfCompute\WcfCompute\bin\WcfCompute.dll.config
+D:\CODE\CSharp\WcfCompute\WcfCompute\bin\WcfCompute.dll
+D:\CODE\CSharp\WcfCompute\WcfCompute\bin\WcfCompute.pdb
+D:\CODE\CSharp\WcfCompute\WcfCompute\bin\AllocationsCompute.pdb
+D:\CODE\CSharp\WcfCompute\WcfCompute\obj\Debug\WcfCompute.csproj.AssemblyReference.cache
+D:\CODE\CSharp\WcfCompute\WcfCompute\obj\Debug\WcfCompute.csproj.CoreCompileInputs.cache
+D:\CODE\CSharp\WcfCompute\WcfCompute\obj\Debug\WcfCompute.csproj.CopyComplete
+D:\CODE\CSharp\WcfCompute\WcfCompute\obj\Debug\WcfCompute.dll
+D:\CODE\CSharp\WcfCompute\WcfCompute\obj\Debug\WcfCompute.pdb
+D:\CODE\CSharp\WcfCompute\WcfCompute\bin\GetConfig.pdb
+D:\CODE\CSharp\WcfCompute\WcfCompute\bin\AllocationsCompute.dll
+E:\GKK_SK\PrismApiTest\WcfCompute\bin\WcfCompute.dll.config
+E:\GKK_SK\PrismApiTest\WcfCompute\bin\WcfCompute.dll
+E:\GKK_SK\PrismApiTest\WcfCompute\bin\WcfCompute.pdb
+E:\GKK_SK\PrismApiTest\WcfCompute\bin\Entity.dll
+E:\GKK_SK\PrismApiTest\WcfCompute\bin\Entity.pdb
+E:\GKK_SK\PrismApiTest\WcfCompute\obj\Debug\WcfCompute.csproj.AssemblyReference.cache
+E:\GKK_SK\PrismApiTest\WcfCompute\obj\Debug\WcfCompute.csproj.CoreCompileInputs.cache
+E:\GKK_SK\PrismApiTest\WcfCompute\obj\Debug\WcfCompute.csproj.CopyComplete
+E:\GKK_SK\PrismApiTest\WcfCompute\obj\Debug\WcfCompute.dll
+E:\GKK_SK\PrismApiTest\WcfCompute\obj\Debug\WcfCompute.pdb
+E:\GKK_SK\PrismApiTest - 副本\WcfCompute\bin\WcfCompute.dll.config
+E:\GKK_SK\PrismApiTest - 副本\WcfCompute\bin\WcfCompute.dll
+E:\GKK_SK\PrismApiTest - 副本\WcfCompute\bin\WcfCompute.pdb
+E:\GKK_SK\PrismApiTest - 副本\WcfCompute\bin\Entity.dll
+E:\GKK_SK\PrismApiTest - 副本\WcfCompute\bin\Entity.pdb
+E:\GKK_SK\PrismApiTest - 副本\WcfCompute\obj\Debug\WcfCompute.csproj.AssemblyReference.cache
+E:\GKK_SK\PrismApiTest - 副本\WcfCompute\obj\Debug\WcfCompute.csproj.CoreCompileInputs.cache
+E:\GKK_SK\PrismApiTest - 副本\WcfCompute\obj\Debug\WcfCompute.csproj.CopyComplete
+E:\GKK_SK\PrismApiTest - 副本\WcfCompute\obj\Debug\WcfCompute.dll
+E:\GKK_SK\PrismApiTest - 副本\WcfCompute\obj\Debug\WcfCompute.pdb
+C:\Users\Administrator.DESKTOP-6T7UBJ8\Desktop\323最终\ApplicationTask1\WcfCompute\bin\WcfCompute.dll.config
+C:\Users\Administrator.DESKTOP-6T7UBJ8\Desktop\323最终\ApplicationTask1\WcfCompute\bin\WcfCompute.dll
+C:\Users\Administrator.DESKTOP-6T7UBJ8\Desktop\323最终\ApplicationTask1\WcfCompute\bin\WcfCompute.pdb
+C:\Users\Administrator.DESKTOP-6T7UBJ8\Desktop\323最终\ApplicationTask1\WcfCompute\bin\Entity.dll
+C:\Users\Administrator.DESKTOP-6T7UBJ8\Desktop\323最终\ApplicationTask1\WcfCompute\bin\Entity.pdb
+C:\Users\Administrator.DESKTOP-6T7UBJ8\Desktop\323最终\ApplicationTask1\WcfCompute\obj\Debug\WcfCompute.csproj.AssemblyReference.cache
+C:\Users\Administrator.DESKTOP-6T7UBJ8\Desktop\323最终\ApplicationTask1\WcfCompute\obj\Debug\WcfCompute.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.DESKTOP-6T7UBJ8\Desktop\323最终\ApplicationTask1\WcfCompute\obj\Debug\WcfCompute.csproj.CopyComplete
+C:\Users\Administrator.DESKTOP-6T7UBJ8\Desktop\323最终\ApplicationTask1\WcfCompute\obj\Debug\WcfCompute.dll
+C:\Users\Administrator.DESKTOP-6T7UBJ8\Desktop\323最终\ApplicationTask1\WcfCompute\obj\Debug\WcfCompute.pdb
+E:\GKK_SK\ApplicationTask2\ApplicationTask1\WcfCompute\bin\WcfCompute.dll.config
+E:\GKK_SK\ApplicationTask2\ApplicationTask1\WcfCompute\bin\WcfCompute.dll
+E:\GKK_SK\ApplicationTask2\ApplicationTask1\WcfCompute\bin\WcfCompute.pdb
+E:\GKK_SK\ApplicationTask2\ApplicationTask1\WcfCompute\bin\Entity.dll
+E:\GKK_SK\ApplicationTask2\ApplicationTask1\WcfCompute\bin\Entity.pdb
+E:\GKK_SK\ApplicationTask2\ApplicationTask1\WcfCompute\obj\Debug\WcfCompute.csproj.AssemblyReference.cache
+E:\GKK_SK\ApplicationTask2\ApplicationTask1\WcfCompute\obj\Debug\WcfCompute.csproj.CoreCompileInputs.cache
+E:\GKK_SK\ApplicationTask2\ApplicationTask1\WcfCompute\obj\Debug\WcfCompute.csproj.CopyComplete
+E:\GKK_SK\ApplicationTask2\ApplicationTask1\WcfCompute\obj\Debug\WcfCompute.dll
+E:\GKK_SK\ApplicationTask2\ApplicationTask1\WcfCompute\obj\Debug\WcfCompute.pdb
+E:\GKK_SK\ApplicationTask1\WcfCompute\bin\WcfCompute.dll.config
+E:\GKK_SK\ApplicationTask1\WcfCompute\bin\WcfCompute.dll
+E:\GKK_SK\ApplicationTask1\WcfCompute\bin\WcfCompute.pdb
+E:\GKK_SK\ApplicationTask1\WcfCompute\bin\Entity.dll
+E:\GKK_SK\ApplicationTask1\WcfCompute\bin\Entity.pdb
+E:\GKK_SK\ApplicationTask1\WcfCompute\obj\Debug\WcfCompute.csproj.AssemblyReference.cache
+E:\GKK_SK\ApplicationTask1\WcfCompute\obj\Debug\WcfCompute.csproj.CoreCompileInputs.cache
+E:\GKK_SK\ApplicationTask1\WcfCompute\obj\Debug\WcfCompute.csproj.CopyComplete
+E:\GKK_SK\ApplicationTask1\WcfCompute\obj\Debug\WcfCompute.dll
+E:\GKK_SK\ApplicationTask1\WcfCompute\obj\Debug\WcfCompute.pdb

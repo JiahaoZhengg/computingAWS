@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="81ccb525-395d-428b-80e8-7250aef0efc9" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8086/ServiceTask.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceTask.wsdl" MetadataType="Wsdl" ID="0e421f5f-755d-4184-a928-b3ca593c968c" SourceId="1" SourceUrl="http://localhost:8086/ServiceTask.svc?wsdl" />
+    <MetadataFile FileName="ServiceTask.xsd" MetadataType="Schema" ID="07e4a277-04c5-4f50-a08c-4a906ca3e849" SourceId="1" SourceUrl="http://localhost:8086/ServiceTask.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServiceTask1.xsd" MetadataType="Schema" ID="8472830c-a86e-4f98-ac40-c05811da5d9d" SourceId="1" SourceUrl="http://localhost:8086/ServiceTask.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServiceTask.disco" MetadataType="Disco" ID="4acf4ed6-87d6-48fb-adb6-53914a9e4919" SourceId="1" SourceUrl="http://localhost:8086/ServiceTask.svc?disco" />
+    <MetadataFile FileName="ServiceTask2.xsd" MetadataType="Schema" ID="5fc6f92e-c552-49d4-9446-403b694d66d6" SourceId="1" SourceUrl="http://localhost:8086/ServiceTask.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
